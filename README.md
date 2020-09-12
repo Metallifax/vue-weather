@@ -1,5 +1,8 @@
 # vue-weather
 
+links: 
+  https://github.com/TylerPottsDev/weather-vue/tree/master/src/assets
+
 ## Project setup
 ```
 yarn install
