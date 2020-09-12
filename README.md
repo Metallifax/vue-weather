@@ -1,7 +1,9 @@
 # vue-weather
 
-links: 
-  https://github.com/TylerPottsDev/weather-vue/tree/master/src/assets
+## Future Implementations
+  - Autocomplete using vue: https://www.youtube.com/watch?v=cuo9T6rc-VE
+  - More transitions based on weather and temperature
+  - *possibly* animations 
 
 ## Project setup
 ```
